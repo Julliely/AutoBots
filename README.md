@@ -34,15 +34,16 @@ Todos os membros da Squad devem contribuir implementando **ao menos dois casos d
 
 ## Estrutura do Projeto
 ````
-/tests
-cadastro.robot
-/resources
-/pages
-CadastroPage.resource
-/components
-Alert.resource
-base.resource
-README.md
+ServeRest-Autobots/
+├── tests/
+│ └── cadastro.robot
+├── resources/
+│ ├── pages/
+│ │ └── CadastroPage.resource
+│ ├── components/
+│ │ └── Alert.resource
+│ └── base.resource
+└── README.md
 ````
 ## Como Executar os Testes
 

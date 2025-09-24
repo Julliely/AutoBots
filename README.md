@@ -17,7 +17,7 @@ O objetivo é validar funcionalidades de cadastro de usuários na aplicação we
 - Deve poder logar com um usuário pré-cadastrado
 - Não deve permitir login com usuário inexistente
 - Não deve logar com senha inválida
-- Não deve logar com email inválido 
+- Deve permitir fazer logout
 
 Todos os membros da Squad devem contribuir implementando **ao menos dois casos de testes cada**.
 
